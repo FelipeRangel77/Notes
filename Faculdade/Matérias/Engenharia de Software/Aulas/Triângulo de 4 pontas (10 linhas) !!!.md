@@ -1,0 +1,7 @@
+Escopo - 
+
+Qualidade -
+
+Custo -
+
+Tempo - 

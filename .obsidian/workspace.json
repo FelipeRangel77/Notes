@@ -11,10 +11,14 @@
             "id": "c64b9f958e0fc405",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Matérias/Direito Digital/TDE 1 -Direito de Sucessão (herança) e criptomoedas....md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TDE 1 -Direito de Sucessão (herança) e criptomoedas..."
             }
           }
         ]
@@ -177,5 +181,15 @@
     }
   },
   "active": "c64b9f958e0fc405",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Faculdade/Matérias/Direito Digital/TDE 2 - LGPD- Lei de Acesso à Informação.md",
+    "Faculdade/Matérias/Direito Digital/TDE 1 -Direito de Sucessão (herança) e criptomoedas....md",
+    "Faculdade/Matérias/Direito Digital/Aulas.md",
+    "2026-02-25.md",
+    "Faculdade/Matérias/Redes de computadores",
+    "Faculdade/Matérias/Programação Orientada a Objetos",
+    "Faculdade/Matérias/Estatística aplicada a gestão",
+    "Faculdade/Matérias/Direito Digital",
+    "Untitled.canvas"
+  ]
 }
